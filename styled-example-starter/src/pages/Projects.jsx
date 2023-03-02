@@ -1,7 +1,8 @@
 import React from "react";
+import { Div } from "../components/styles/Project.styled";
 
 const Project = () => {
-  return <div></div>;
+  return <Div>Projects</Div>;
 };
 
 export default Project;

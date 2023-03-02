@@ -1,7 +1,8 @@
 import React from "react";
+import { Div } from "../components/styles/Contact.styled";
 
 const Contaxt = () => {
-  return <div></div>;
+  return <Div> Contact </Div>;
 };
 
 export default Contaxt;
